@@ -5,6 +5,8 @@ Está desarrollado a partir de [batari Basic](https://github.com/batari-Basic/ba
 
 Es un lenguaje compilado que se ejecuta en una computadora y crea un binario que se puede ejecutar en un emulador Atari 2600 como Stella o se puede usar el archivo binario para fabricar un cartucho que funcione en un Atari 2600 real.
 
+[Repositorio en GitHub](https://github.com/gwannon/PerroPeligro)
+
 ## Cómo se juega
 PerroPeligro™ tiene que evitar caerse y para ello debe saltar de plataforma en plataforma (rectángulos grises y azules). Si coge su premio (cuadrado verde) consigue 500 puntos y recupera una vida hasta un máximo de 3. De esta forma te puedes arriesgarte a caerte si sabes que vas a coger el premio.
 
